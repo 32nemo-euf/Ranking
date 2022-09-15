@@ -10,7 +10,7 @@ division = 'Open'
 
 # Prepare dataset
 dataset_name = 'EUF_2019_{}'.format(division)
-dataset_path = 'data/games_euf_2019_{}.csv'.format(division.lower())
+dataset_path = 'data/games_euf_2019_clean_{}.csv'.format(division.lower())
 
 #
 euf_dataset = GamesDataset(dataset_path, dataset_name)
