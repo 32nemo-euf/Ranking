@@ -1,0 +1,639 @@
+Tournament,Date,Team_1,Team_2,Score_1,Score_2
+2019-EUCRC,2019-08-24,Family Ultimate,Gentle Open,11,12
+2019-EUCRC,2019-08-24,Mooncatchers,Frank N,13,11
+2019-EUCRC,2019-08-24,Force Elektro 1,KFK - Copenhagen Frisbee Club,3,13
+2019-EUCRC,2019-08-24,HELGTRE OPEN,Heidees,9,13
+2019-EUCRC,2019-08-24,M.U.C.,KFK - Copenhagen Frisbee Club,13,9
+2019-EUCRC,2019-08-24,Bad Skid,Gentle Open,13,8
+2019-EUCRC,2019-08-24,Ragnarok,Frank N,12,9
+2019-EUCRC,2019-08-24,7Schwaben,Heidees,7,13
+2019-EUCRC,2019-08-24,M.U.C.,Force Elektro 1,13,6
+2019-EUCRC,2019-08-24,7Schwaben,HELGTRE OPEN,13,9
+2019-EUCRC,2019-08-24,Bad Skid,Family Ultimate,13,9
+2019-EUCRC,2019-08-24,Ragnarok,Mooncatchers,9,13
+2019-EUCRC,2019-08-24,Gentle Open,Frank N,13,10
+2019-EUCRC,2019-08-24,Ragnarok,Family Ultimate,13,11
+2019-EUCRC,2019-08-24,KFK - Copenhagen Frisbee Club,HELGTRE OPEN,13,3
+2019-EUCRC,2019-08-24,7Schwaben,Force Elektro 1,13,5
+2019-EUCRC,2019-08-24,Bad Skid,KFK - Copenhagen Frisbee Club,13,8
+2019-EUCRC,2019-08-24,Mooncatchers,7Schwaben,9,13
+2019-EUCRC,2019-08-24,M.U.C.,Gentle Open,13,12
+2019-EUCRC,2019-08-24,Heidees,Ragnarok,13,10
+2019-EUCRC,2019-08-25,HELGTRE OPEN,Family Ultimate,13,12
+2019-EUCRC,2019-08-25,Force Elektro 1,Frank N,9,13
+2019-EUCRC,2019-08-25,KFK - Copenhagen Frisbee Club,Ragnarok,13,3
+2019-EUCRC,2019-08-25,Mooncatchers,Gentle Open,13,7
+2019-EUCRC,2019-08-25,Bad Skid,Heidees,13,11
+2019-EUCRC,2019-08-25,7Schwaben,M.U.C.,6,13
+2019-EUCRC,2019-08-25,HELGTRE OPEN,Frank N,9,13
+2019-EUCRC,2019-08-25,Family Ultimate,Force Elektro 1,13,6
+2019-EUCRC,2019-08-25,KFK - Copenhagen Frisbee Club,Mooncatchers,11,13
+2019-EUCRC,2019-08-25,Ragnarok,Gentle Open,13,12
+2019-EUCRC,2019-08-25,Bad Skid,M.U.C.,13,9
+2019-EUCRC,2019-08-25,Heidees,7Schwaben,13,8
+2019-EUCRE,2019-08-23,THE BRIDGE,Gigolo,15,12
+2019-EUCRE,2019-08-23,Uprising,thebigEZ,10,15
+2019-EUCRE,2019-08-23,Yellow Block open,Catchup Graz,10,15
+2019-EUCRE,2019-08-23,Cosmo Men,Prague Devils,9,15
+2019-EUCRE,2019-08-23,FWD>>,Mojra,15,14
+2019-EUCRE,2019-08-23,FUJ,Terrible Monkeys,15,9
+2019-EUCRE,2019-08-23,Catchup Graz,Gigolo,15,10
+2019-EUCRE,2019-08-23,THE BRIDGE,thebigEZ,11,15
+2019-EUCRE,2019-08-23,Uprising,Yellow Block open,15,10
+2019-EUCRE,2019-08-23,FWD>>,Terrible Monkeys,15,11
+2019-EUCRE,2019-08-23,FUJ,Cosmo Men,15,12
+2019-EUCRE,2019-08-23,Prague Devils,Mojra,15,14
+2019-EUCRE,2019-08-24,Cosmo Men,Terrible Monkeys,9,15
+2019-EUCRE,2019-08-24,FWD>>,Prague Devils,15,10
+2019-EUCRE,2019-08-24,FUJ,Mojra,15,11
+2019-EUCRE,2019-08-24,Uprising,Gigolo,15,5
+2019-EUCRE,2019-08-24,THE BRIDGE,Catchup Graz,7,15
+2019-EUCRE,2019-08-24,Yellow Block open,thebigEZ,14,15
+2019-EUCRE,2019-08-24,FUJ,FWD>>,15,13
+2019-EUCRE,2019-08-24,Cosmo Men,Mojra,15,14
+2019-EUCRE,2019-08-24,Terrible Monkeys,Prague Devils,11,15
+2019-EUCRE,2019-08-24,thebigEZ,Catchup Graz,15,8
+2019-EUCRE,2019-08-24,Uprising,THE BRIDGE,9,15
+2019-EUCRE,2019-08-24,Yellow Block open,Gigolo,15,10
+2019-EUCRE,2019-08-24,FUJ,Prague Devils,15,11
+2019-EUCRE,2019-08-24,FWD>>,Cosmo Men,15,13
+2019-EUCRE,2019-08-24,Terrible Monkeys,Mojra,7,15
+2019-EUCRE,2019-08-24,thebigEZ,Gigolo,15,6
+2019-EUCRE,2019-08-24,THE BRIDGE,Yellow Block open,15,11
+2019-EUCRE,2019-08-24,Uprising,Catchup Graz,13,15
+2019-EUCRE,2019-08-25,FUJ,Catchup Graz,15,11
+2019-EUCRE,2019-08-25,thebigEZ,FWD>>,11,13
+2019-EUCRE,2019-08-25,Prague Devils,Uprising,9,6
+2019-EUCRE,2019-08-25,THE BRIDGE,Mojra,10,13
+2019-EUCRE,2019-08-25,Catchup Graz,thebigEZ,0,1
+2019-EUCRE,2019-08-25,Prague Devils,Mojra,12,14
+2019-EUCRE,2019-08-25,Catchup Graz,Mojra,0,1
+2019-EUCRN,2019-08-03,PirU,Me & My Monkey,14,12
+2019-EUCRN,2019-08-03,RealFive,Shadows,15,5
+2019-EUCRN,2019-08-03,Sokol,Rampage,7,10
+2019-EUCRN,2019-08-03,JuPiter,Flying Steps,9,8
+2019-EUCRN,2019-08-03,RealFive,Rampage,15,11
+2019-EUCRN,2019-08-03,Sokol,Shadows,15,12
+2019-EUCRN,2019-08-03,PirU,Flying Steps,13,7
+2019-EUCRN,2019-08-03,JuPiter,Me & My Monkey,15,10
+2019-EUCRN,2019-08-03,PirU,JuPiter,11,15
+2019-EUCRN,2019-08-03,Rampage,Shadows,15,10
+2019-EUCRN,2019-08-03,RealFive,Sokol,12,10
+2019-EUCRN,2019-08-03,Flying Steps,Me & My Monkey,6,12
+2019-EUCRN,2019-08-04,RealFive,PirU,15,7
+2019-EUCRN,2019-08-04,JuPiter,Rampage,8,11
+2019-EUCRN,2019-08-04,Sokol,Flying Steps,12,13
+2019-EUCRN,2019-08-04,Me & My Monkey,Shadows,9,15
+2019-EUCRN,2019-08-04,RealFive,Rampage,15,1
+2019-EUCRN,2019-08-04,PirU,JuPiter,9,10
+2019-EUCRN,2019-08-04,Flying Steps,Shadows,11,9
+2019-EUCRN,2019-08-04,Sokol,Me & My Monkey,14,10
+2019-EUCRS,2019-08-31,Donkey Divers,Flying Angels Bern,11,15
+2019-EUCRS,2019-08-31,Cusb Red Bulls,Iznogood,10,15
+2019-EUCRS,2019-08-31,Freespeed,Tchac,15,10
+2019-EUCRS,2019-08-31,CUSB La Fotta,Crazy Dogs I,15,8
+2019-EUCRS,2019-08-31,Iznogood,Tchac,12,11
+2019-EUCRS,2019-08-31,CUSB La Fotta,Cotarica Grandes,15,6
+2019-EUCRS,2019-08-31,Freespeed,Panthers Bern,15,12
+2019-EUCRS,2019-08-31,Flying Angels Bern,Crazy Dogs I,15,14
+2019-EUCRS,2019-08-31,CUSB La Fotta,Flying Angels Bern,15,8
+2019-EUCRS,2019-08-31,Freespeed,Iznogood,13,14
+2019-EUCRS,2019-08-31,Cotarica Grandes,Donkey Divers,14,13
+2019-EUCRS,2019-08-31,Panthers Bern,Cusb Red Bulls,11,15
+2019-EUCRS,2019-09-01,Crazy Dogs I,Cotarica Grandes,15,10
+2019-EUCRS,2019-09-01,Freespeed,Cusb Red Bulls,15,13
+2019-EUCRS,2019-09-01,Tchac,Panthers Bern,11,15
+2019-EUCRS,2019-09-01,CUSB La Fotta,Donkey Divers,15,7
+2019-EUCRS,2019-09-01,Iznogood,Panthers Bern,15,7
+2019-EUCRS,2019-09-01,Flying Angels Bern,Cotarica Grandes,15,6
+2019-EUCRS,2019-09-01,Cusb Red Bulls,Tchac,13,11
+2019-EUCRS,2019-09-01,Donkey Divers,Crazy Dogs I,11,15
+2019-EUCRS,2019-09-01,CUSB La Fotta,Iznogood,15,6
+2019-EUCRS,2019-09-01,Flying Angels Bern,Freespeed,13,14
+2019-EUCRS,2019-09-01,Crazy Dogs I,Cusb Red Bulls,9,15
+2019-EUCRS,2019-09-01,Cotarica Grandes,Panthers Bern,13,11
+2019-EUCRS,2019-09-01,Donkey Divers,Tchac,9,15
+2019-EUCRW,2019-08-24,Clapham Ultimate,BAF,15,4
+2019-EUCRW,2019-08-24,Devon Ultimate,Fire of London,15,4
+2019-EUCRW,2019-08-24,EMO 1,Rebel Ultimate,11,15
+2019-EUCRW,2019-08-24,Ranelagh,XVI,15,12
+2019-EUCRW,2019-08-24,Manchester Ultimate,Alba,5,15
+2019-EUCRW,2019-08-24,YOpen,Chevron Action Flash,3,15
+2019-EUCRW,2019-08-24,Brighton Open,Ka-Pow!,14,15
+2019-EUCRW,2019-08-24,Bristol Open 1,PELT Ultimate,3,15
+2019-EUCRW,2019-08-24,BAF,EMO 1,7,15
+2019-EUCRW,2019-08-24,Manchester Ultimate,YOpen,13,14
+2019-EUCRW,2019-08-24,Fire of London,Brighton Open,11,12
+2019-EUCRW,2019-08-24,XVI,Bristol Open 1,15,6
+2019-EUCRW,2019-08-24,Devon Ultimate,Ka-Pow!,15,9
+2019-EUCRW,2019-08-24,Alba,Chevron Action Flash,12,13
+2019-EUCRW,2019-08-24,Ranelagh,PELT Ultimate,12,9
+2019-EUCRW,2019-08-24,Clapham Ultimate,Rebel Ultimate,15,6
+2019-EUCRW,2019-08-24,Bristol Open 1,BAF,11,15
+2019-EUCRW,2019-08-24,Fire of London,Manchester Ultimate,15,12
+2019-EUCRW,2019-08-24,Alba,EMO 1,15,5
+2019-EUCRW,2019-08-24,Rebel Ultimate,YOpen,15,5
+2019-EUCRW,2019-08-24,Ka-Pow!,XVI,8,15
+2019-EUCRW,2019-08-24,PELT Ultimate,Brighton Open,15,8
+2019-EUCRW,2019-08-24,Clapham Ultimate,Ranelagh,15,4
+2019-EUCRW,2019-08-24,Devon Ultimate,Chevron Action Flash,6,15
+2019-EUCRW,2019-08-25,EMO 1,Ka-Pow!,15,13
+2019-EUCRW,2019-08-25,YOpen,Brighton Open,10,15
+2019-EUCRW,2019-08-25,Alba,XVI,15,13
+2019-EUCRW,2019-08-25,PELT Ultimate,Rebel Ultimate,14,15
+2019-EUCRW,2019-08-25,Bristol Open 1,Fire of London,14,15
+2019-EUCRW,2019-08-25,Manchester Ultimate,BAF,15,10
+2019-EUCRW,2019-08-25,Devon Ultimate,Ranelagh,7,15
+2019-EUCRW,2019-08-25,Alba,Rebel Ultimate,15,13
+2019-EUCRW,2019-08-25,Clapham Ultimate,Chevron Action Flash,15,10
+2019-EUCRW,2019-08-25,EMO 1,Brighton Open,13,9
+2019-EUCRW,2019-08-25,YOpen,Ka-Pow!,1,15
+2019-EUCRW,2019-08-25,XVI,PELT Ultimate,13,14
+2019-EUCRW,2019-08-25,Bristol Open 1,Manchester Ultimate,13,15
+2019-EUCRW,2019-08-25,Fire of London,BAF,15,8
+2019-EUCRW,2019-08-25,Devon Ultimate,Alba,10,15
+DFV-Pokal Open,2019-08-15,M.U.C.,Hässliche Erdferkel,15,7
+DFV-Pokal Open,2019-08-15,Frank N,7Schwaben,15,13
+DFV-Pokal Open,2019-08-15,Frizzly Bears,2M.U.C.L,15,9
+DFV-Pokal Open,2019-08-15,Hucks Ultimate Berlin,Kiel2,15,12
+DFV-Pokal Open,2019-08-15,Bad Skid,Wall City,15,5
+DFV-Pokal Open,2019-08-15,Family Ultimate,Heidees,13,15
+DFV-Pokal Open,2019-08-15,Hardfisch,Disckick,15,8
+DFV-Pokal Open,2019-08-15,Ars Ludendi,Funatics,15,8
+DFV-Pokal Open,2019-08-15,M.U.C.,Frank N,15,10
+DFV-Pokal Open,2019-08-15,7Schwaben,Hucks Ultimate Berlin,15,5
+DFV-Pokal Open,2019-08-15,Frizzly Bears,Hässliche Erdferkel,15,13
+DFV-Pokal Open,2019-08-15,2M.U.C.L,Kiel2,12,15
+DFV-Pokal Open,2019-08-15,Bad Skid,Heidees,15,8
+DFV-Pokal Open,2019-08-15,Family Ultimate,Ars Ludendi,15,10
+DFV-Pokal Open,2019-08-15,Hardfisch,Wall City,15,14
+DFV-Pokal Open,2019-08-15,Disckick,Funatics,15,9
+DFV-Pokal Open,2019-08-15,Bad Skid,Frizzly Bears,15,4
+DFV-Pokal Open,2019-08-15,Frank N,Family Ultimate,13,15
+DFV-Pokal Open,2019-08-15,M.U.C.,Hardfisch,15,14
+DFV-Pokal Open,2019-08-15,Heidees,7Schwaben,9,15
+DFV-Pokal Open,2019-08-15,Bad Skid,Family Ultimate,15,8
+DFV-Pokal Open,2019-08-15,M.U.C.,7Schwaben,15,14
+DFV-Pokal Open,2019-08-15,Frizzly Bears,Frank N,10,15
+DFV-Pokal Open,2019-08-15,Hardfisch,Heidees,14,15
+DFV-Pokal Open,2019-08-15,Family Ultimate,7Schwaben,9,15
+DFV-Pokal Open,2019-08-15,Frank N,Heidees,10,15
+DFV-Pokal Open,2019-08-15,Frizzly Bears,Hardfisch,8,15
+DFV-Pokal Open,2019-08-15,Bad Skid,M.U.C.,15,8
+DFV-Pokal Open,2019-08-15,Hässliche Erdferkel,Funatics,15,14
+DFV-Pokal Open,2019-08-15,Ars Ludendi,Kiel2,15,8
+DFV-Pokal Open,2019-08-15,Wall City,2M.U.C.L,15,7
+DFV-Pokal Open,2019-08-15,Hucks Ultimate Berlin,Disckick,10,15
+DFV-Pokal Open,2019-08-15,Hässliche Erdferkel,Ars Ludendi,12,15
+DFV-Pokal Open,2019-08-15,Wall City,Disckick,15,12
+DFV-Pokal Open,2019-08-15,Funatics,Kiel2,11,15
+DFV-Pokal Open,2019-08-15,2M.U.C.L,Hucks Ultimate Berlin,8,15
+DFV-Pokal Open,2019-08-15,Ars Ludendi,Wall City,6,15
+DFV-Pokal Open,2019-08-15,Hässliche Erdferkel,Disckick,9,15
+DFV-Pokal Open,2019-08-15,Kiel2,Hucks Ultimate Berlin,13,15
+DFV-Pokal Open,2019-08-15,Funatics,2M.U.C.L,10,15
+French Champ Open 1,2019-06-08,Tchac,Raging Bananas,15,10
+French Champ Open 1,2019-06-08,Tchac,Freezgo Uno,15,5
+French Champ Open 1,2019-06-08,Tchac,Magic Disc,15,9
+French Champ Open 1,2019-06-08,Tchac,33 Tours,15,12
+French Champ Open 1,2019-06-08,Tchac,BTRex,15,9
+French Champ Open 1,2019-06-08,Raging Bananas,Freezgo Uno,15,7
+French Champ Open 1,2019-06-08,Raging Bananas,Magic Disc,12,11
+French Champ Open 1,2019-06-08,Raging Bananas,33 Tours,14,15
+French Champ Open 1,2019-06-08,Raging Bananas,BTRex,15,9
+French Champ Open 1,2019-06-08,Freezgo Uno,Magic Disc,4,15
+French Champ Open 1,2019-06-08,Freezgo Uno,33 Tours,10,15
+French Champ Open 1,2019-06-08,Freezgo Uno,BTRex,8,15
+French Champ Open 1,2019-06-08,Magic Disc,33 Tours,12,15
+French Champ Open 1,2019-06-08,Magic Disc,BTRex,15,9
+French Champ Open 1,2019-06-08,33 Tours,BTRex,15,10
+French Champ Open 1,2019-06-08,Iznogood,Discobols,15,8
+French Champ Open 1,2019-06-08,Iznogood,Friselis,15,8
+French Champ Open 1,2019-06-08,Iznogood,Ah Ouh Puc,15,12
+French Champ Open 1,2019-06-08,Iznogood,Tourne-Disc,15,9
+French Champ Open 1,2019-06-08,Iznogood,Sun,15,9
+French Champ Open 1,2019-06-08,Discobols,Friselis,9,15
+French Champ Open 1,2019-06-08,Discobols,Ah Ouh Puc,13,15
+French Champ Open 1,2019-06-08,Discobols,Tourne-Disc,8,15
+French Champ Open 1,2019-06-08,Discobols,Sun,15,9
+French Champ Open 1,2019-06-08,Friselis,Ah Ouh Puc,15,3
+French Champ Open 1,2019-06-08,Friselis,Tourne-Disc,14,11
+French Champ Open 1,2019-06-08,Friselis,Sun,15,9
+French Champ Open 1,2019-06-08,Ah Ouh Puc,Tourne-Disc,15,8
+French Champ Open 1,2019-06-08,Ah Ouh Puc,Sun,15,12
+French Champ Open 1,2019-06-08,Tourne-Disc,Sun,12,15
+French Champ Open 1,2019-06-08,Tchac,Iznogood,15,11
+French Champ Open 1,2019-06-08,Tchac,33 Tours,15,5
+French Champ Open 1,2019-06-08,Tchac,Friselis,15,10
+French Champ Open 1,2019-06-08,Tchac,Raging Bananas,15,10
+French Champ Open 1,2019-06-08,Tchac,Ah Ouh Puc,15,10
+French Champ Open 1,2019-06-08,Iznogood,33 Tours,15,13
+French Champ Open 1,2019-06-08,Iznogood,Friselis,15,7
+French Champ Open 1,2019-06-08,Iznogood,Raging Bananas,15,9
+French Champ Open 1,2019-06-08,Iznogood,Ah Ouh Puc,15,9
+French Champ Open 1,2019-06-08,33 Tours,Friselis,11,15
+French Champ Open 1,2019-06-08,34 Tours,Raging Bananas,11,15
+French Champ Open 1,2019-06-08,35 Tours,Ah Ouh Puc,14,15
+French Champ Open 1,2019-06-08,Friselis,Raging Bananas,15,10
+French Champ Open 1,2019-06-08,Friselis,Ah Ouh Puc,15,7
+French Champ Open 1,2019-06-08,Raging Bananas,Ah Ouh Puc,11,15
+French Champ Open 1,2019-06-08,Magic Disc,Tourne-Disc,15,8
+French Champ Open 1,2019-06-08,Magic Disc,BTRex,15,9
+French Champ Open 1,2019-06-08,Magic Disc,Discobols,11,15
+French Champ Open 1,2019-06-08,Magic Disc,Freezgo Uno,12,15
+French Champ Open 1,2019-06-08,Magic Disc,Sun,15,14
+French Champ Open 1,2019-06-08,Tourne-Disc,BTRex,15,13
+French Champ Open 1,2019-06-08,Tourne-Disc,Discobols,5,15
+French Champ Open 1,2019-06-08,Tourne-Disc,Freezgo Uno,10,13
+French Champ Open 1,2019-06-08,Tourne-Disc,Sun,8,15
+French Champ Open 1,2019-06-08,BTRex,Discobols,14,15
+French Champ Open 1,2019-06-08,BTRex,Freezgo Uno,12,15
+French Champ Open 1,2019-06-08,BTRex,Sun,15,9
+French Champ Open 1,2019-06-08,Discobols,Freezgo Uno,8,15
+French Champ Open 1,2019-06-08,Discobols,Sun,15,12
+French Champ Open 1,2019-06-08,Freezgo Uno,Sun,13,15
+French Champ Open 1,2019-06-08,Tchac,Ah Ouh Puc,15,6
+French Champ Open 1,2019-06-08,Iznogood,Friselis,13,9
+French Champ Open 1,2019-06-08,Raging Bananas,Discobols,15,3
+French Champ Open 1,2019-06-08,33 Tours,Freezgo Uno,15,9
+French Champ Open 1,2019-06-08,Magic Disc,Tourne-Disc,15,8
+French Champ Open 1,2019-06-08,Sun,BTRex,14,15
+French Champ Open 1,2019-06-08,Tchac,Iznogood,9,15
+French Champ Open 1,2019-06-08,Ah Ouh Puc,Friselis,15,11
+French Champ Open 1,2019-06-08,Raging Bananas,33 Tours,15,14
+French Champ Open 1,2019-06-08,Discobols,Freezgo Uno,11,15
+French Champ Open 1,2019-06-08,Magic Disc,BTRex,15,9
+French Champ Open 1,2019-06-08,Tourne-Disc,Sun,11,15
+Nationals,2019-08-24,Clapham Ultimate,BAF,15,4
+Nationals,2019-08-24,Devon Ultimate,Fire of London,15,4
+Nationals,2019-08-24,EMO 1,Rebel Ultimate,11,15
+Nationals,2019-08-24,Ranelagh,XVI,15,12
+Nationals,2019-08-24,Manchester Ultimate,Alba,5,15
+Nationals,2019-08-24,YOpen,Chevron Action Flash,3,15
+Nationals,2019-08-24,Brighton Open,Ka-Pow!,14,15
+Nationals,2019-08-24,Bristol Open 1,PELT Ultimate,3,15
+Nationals,2019-08-24,BAF,EMO 1,7,15
+Nationals,2019-08-24,Manchester Ultimate,YOpen,13,14
+Nationals,2019-08-24,Fire of London,Brighton Open,11,12
+Nationals,2019-08-24,XVI,Bristol Open 1,15,6
+Nationals,2019-08-24,Devon Ultimate,Ka-Pow!,15,9
+Nationals,2019-08-24,Alba,Chevron Action Flash,12,13
+Nationals,2019-08-24,Ranelagh,PELT Ultimate,12,9
+Nationals,2019-08-24,Clapham Ultimate,Rebel Ultimate,15,6
+Nationals,2019-08-24,Bristol Open 1,BAF,11,15
+Nationals,2019-08-24,Fire of London,Manchester Ultimate,15,12
+Nationals,2019-08-24,Alba,EMO 1,15,5
+Nationals,2019-08-24,Rebel Ultimate,YOpen,15,5
+Nationals,2019-08-24,Ka-Pow!,XVI,8,15
+Nationals,2019-08-24,PELT Ultimate,Brighton Open,15,8
+Nationals,2019-08-24,Clapham Ultimate,Ranelagh,15,4
+Nationals,2019-08-24,Devon Ultimate,Chevron Action Flash,6,15
+Nationals,2019-08-25,EMO 1,Ka-Pow!,15,13
+Nationals,2019-08-25,YOpen,Brighton Open,10,15
+Nationals,2019-08-25,Alba,XVI,15,13
+Nationals,2019-08-25,PELT Ultimate,Rebel Ultimate,14,15
+Nationals,2019-08-25,Bristol Open 1,Fire of London,14,15
+Nationals,2019-08-25,Manchester Ultimate,BAF,15,10
+Nationals,2019-08-25,Devon Ultimate,Ranelagh,7,15
+Nationals,2019-08-25,Alba,Rebel Ultimate,15,13
+Nationals,2019-08-25,Clapham Ultimate,Chevron Action Flash,15,10
+Nationals,2019-08-25,EMO 1,Brighton Open,13,9
+Nationals,2019-08-25,YOpen,Ka-Pow!,1,15
+Nationals,2019-08-25,XVI,PELT Ultimate,13,14
+Nationals,2019-08-25,Bristol Open 1,Manchester Ultimate,13,15
+Nationals,2019-08-25,Fire of London,BAF,15,8
+Nationals,2019-08-25,Devon Ultimate,Alba,10,15
+Open 1. Liga,2019-06-06,Kiel2,Frank N,11,15
+Open 1. Liga,2019-06-06,Frizzly Bears,Heidees,13,15
+Open 1. Liga,2019-06-06,Bad Skid,BORA,15,9
+Open 1. Liga,2019-06-06,Hässliche Erdferkel,Hucks Ultimate Berlin,15,11
+Open 1. Liga,2019-06-06,Frank N,Frizzly Bears,14,15
+Open 1. Liga,2019-06-06,Heidees,Kiel2,15,13
+Open 1. Liga,2019-06-06,Hucks Ultimate Berlin,Bad Skid,7,15
+Open 1. Liga,2019-06-06,BORA,Hässliche Erdferkel,13,15
+Open 1. Liga,2019-06-06,Frank N,Heidees,11,15
+Open 1. Liga,2019-06-06,Frizzly Bears,Kiel2,15,11
+Open 1. Liga,2019-06-06,Bad Skid,Hässliche Erdferkel,15,11
+Open 1. Liga,2019-06-06,BORA,Hucks Ultimate Berlin,15,10
+Open 1. Liga,2019-06-06,Frank N,Hucks Ultimate Berlin,15,9
+Open 1. Liga,2019-06-06,Hässliche Erdferkel,Frizzly Bears,10,15
+Open 1. Liga,2019-06-06,Bad Skid,Kiel2,15,10
+Open 1. Liga,2019-06-06,Heidees,BORA,15,11
+Open 1. Liga,2019-06-06,Hässliche Erdferkel,Frank N,12,15
+Open 1. Liga,2019-06-06,Hucks Ultimate Berlin,Frizzly Bears,6,15
+Open 1. Liga,2019-06-06,Heidees,Bad Skid,8,15
+Open 1. Liga,2019-06-06,Kiel2,BORA,8,15
+Open 1. Liga,2019-06-06,Hucks Ultimate Berlin,Heidees,14,15
+Open 1. Liga,2019-06-06,Kiel2,Hässliche Erdferkel,11,15
+Open 1. Liga,2019-06-06,Frizzly Bears,Bad Skid,2,15
+Open 1. Liga,2019-06-06,BORA,Frank N,15,9
+Open 1. Liga,2019-06-06,Heidees,Hässliche Erdferkel,9,15
+Open 1. Liga,2019-06-06,Hucks Ultimate Berlin,Kiel2,15,14
+Open 1. Liga,2019-06-06,Bad Skid,Frank N,15,8
+Open 1. Liga,2019-06-06,Frizzly Bears,BORA,14,15
+Open 1. Liga,2019-06-06,Funatics,Family Ultimate,11,15
+Open 1. Liga,2019-06-06,Hardfisch,7Schwaben,13,15
+Open 1. Liga,2019-06-06,M.U.C.,GeRey,15,10
+Open 1. Liga,2019-06-06,Wall City,Ars Ludendi,15,12
+Open 1. Liga,2019-06-06,Family Ultimate,Hardfisch,15,11
+Open 1. Liga,2019-06-06,7Schwaben,Funatics,15,5
+Open 1. Liga,2019-06-06,Ars Ludendi,M.U.C.,14,15
+Open 1. Liga,2019-06-06,GeRey,Wall City,14,15
+Open 1. Liga,2019-06-06,Family Ultimate,7Schwaben,10,15
+Open 1. Liga,2019-06-06,Hardfisch,Funatics,15,11
+Open 1. Liga,2019-06-06,M.U.C.,Wall City,13,15
+Open 1. Liga,2019-06-06,GeRey,Ars Ludendi,13,15
+Open 1. Liga,2019-06-06,Family Ultimate,Ars Ludendi,11,15
+Open 1. Liga,2019-06-06,Wall City,Hardfisch,15,13
+Open 1. Liga,2019-06-06,M.U.C.,Funatics,15,7
+Open 1. Liga,2019-06-06,7Schwaben,GeRey,15,8
+Open 1. Liga,2019-06-06,Wall City,Family Ultimate,15,10
+Open 1. Liga,2019-06-06,Ars Ludendi,Hardfisch,15,11
+Open 1. Liga,2019-06-06,7Schwaben,M.U.C.,15,12
+Open 1. Liga,2019-06-06,Funatics,GeRey,10,15
+Open 1. Liga,2019-06-06,Ars Ludendi,7Schwaben,8,15
+Open 1. Liga,2019-06-06,Funatics,Wall City,4,15
+Open 1. Liga,2019-06-06,Hardfisch,M.U.C.,9,15
+Open 1. Liga,2019-06-06,GeRey,Family Ultimate,15,9
+Open 1. Liga,2019-06-06,7Schwaben,Wall City,13,15
+Open 1. Liga,2019-06-06,Ars Ludendi,Funatics,15,10
+Open 1. Liga,2019-06-06,M.U.C.,Family Ultimate,15,12
+Open 1. Liga,2019-06-06,Hardfisch,GeRey,15,8
+Open 1. Liga,2019-06-06,Bad Skid,Ars Ludendi,15,8
+Open 1. Liga,2019-06-06,7Schwaben,Frizzly Bears,15,9
+Open 1. Liga,2019-06-06,Wall City,BORA,15,14
+Open 1. Liga,2019-06-06,Heidees,M.U.C.,11,15
+Open 1. Liga,2019-06-06,Bad Skid,7Schwaben,15,9
+Open 1. Liga,2019-06-06,Wall City,M.U.C.,10,15
+Open 1. Liga,2019-06-06,Ars Ludendi,Frizzly Bears,15,14
+Open 1. Liga,2019-06-06,BORA,Heidees,9,15
+Open 1. Liga,2019-06-06,7Schwaben,Wall City,15,14
+Open 1. Liga,2019-06-06,Ars Ludendi,Heidees,14,15
+Open 1. Liga,2019-06-06,Frizzly Bears,BORA,15,7
+Open 1. Liga,2019-06-06,Bad Skid,M.U.C.,15,8
+Open 1. Liga,2019-06-06,Hässliche Erdferkel,Funatics,15,12
+Open 1. Liga,2019-06-06,Hucks Ultimate Berlin,GeRey,9,15
+Open 1. Liga,2019-06-06,GeRey,Hässliche Erdferkel,9,15
+Open 1. Liga,2019-06-06,Hucks Ultimate Berlin,Funatics,12,14
+Open 1. Liga,2019-06-06,Hardfisch,Kiel2,15,7
+Open 1. Liga,2019-06-06,Family Ultimate,Frank N,8,15
+Open 1. Liga,2019-06-06,Frank N,Hardfisch,10,15
+Open 1. Liga,2019-06-06,Family Ultimate,Kiel2,14,15
+Open 1. Liga,2019-06-06,Hässliche Erdferkel,Hardfisch,12,15
+Open 1. Liga,2019-06-06,Frank N,Funatics,15,3
+Open 1. Liga,2019-06-06,GeRey,Kiel2,15,13
+Open 1. Liga,2019-06-06,Hucks Ultimate Berlin,Family Ultimate,15,0
+Tom's Tourney 2019,2019-05-05,Mooncatchers,Mosquitos,9,11
+Tom's Tourney 2019,2019-05-05,Solebang,Ars Ludendi,10,8
+Tom's Tourney 2019,2019-05-05,Ah Ouh Puc,Glory Owls,10,7
+Tom's Tourney 2019,2019-05-05,Frizzly Bears,Boys R Us,11,10
+Tom's Tourney 2019,2019-05-05,Germany U20 Open,Frizstyle,9,10
+Tom's Tourney 2019,2019-05-05,Belgium U20,Cota Viet,6,10
+Tom's Tourney 2019,2019-05-05,GOLD,Uproar,14,5
+Tom's Tourney 2019,2019-05-05,Panthers Bern,Goldfingers,10,9
+Tom's Tourney 2019,2019-05-05,Chevron Action Flash,Cotarica Grandes,11,8
+Tom's Tourney 2019,2019-05-05,Craic Dealers 2.0,New Age,10,9
+Tom's Tourney 2019,2019-05-05,CUSB La Fotta51,Heidees,11,6
+Tom's Tourney 2019,2019-05-05,Iznogood,Flump,15,4
+Tom's Tourney 2019,2019-05-05,GB U24 Men,Amsterdam U.C. Open,9,8
+Tom's Tourney 2019,2019-05-05,Cusb Red Bulls,Raging Bananas,13,6
+Tom's Tourney 2019,2019-05-05,Tchac,Fire of London,12,6
+Tom's Tourney 2019,2019-05-05,Belgium Open,Ka-Pow!,15,9
+Tom's Tourney 2019,2019-05-05,Belgium U24 Open,Alba,13,7
+Tom's Tourney 2019,2019-05-05,Ragnarok,Friselis,10,9
+Tom's Tourney 2019,2019-05-05,Freespeed,Rebel Ultimate,14,10
+Tom's Tourney 2019,2019-05-05,Devon Ultimate,Wall City,12,11
+Tom's Tourney 2019,2019-05-05,Germany U20 Open,Blue Arse Flies,12,8
+Tom's Tourney 2019,2019-05-05,Belgium U20,Frizstyle,6,11
+Tom's Tourney 2019,2019-05-05,GOLD,AtomSwift,10,9
+Tom's Tourney 2019,2019-05-05,Panthers Bern,Uproar,13,5
+Tom's Tourney 2019,2019-05-05,Mooncatchers,SUN,10,11
+Tom's Tourney 2019,2019-05-05,Solebang,Mosquitos,13,10
+Tom's Tourney 2019,2019-05-05,Ah Ouh Puc,Hardfisch,12,11
+Tom's Tourney 2019,2019-05-05,Frizzly Bears,Glory Owls,12,7
+Tom's Tourney 2019,2019-05-05,Chevron Action Flash,New Age,10,7
+Tom's Tourney 2019,2019-05-05,Craic Dealers 2.0,Cotarica Grandes,9,11
+Tom's Tourney 2019,2019-05-05,CUSB La Fotta51,Flump,10,8
+Tom's Tourney 2019,2019-05-05,Iznogood,Heidees,13,8
+Tom's Tourney 2019,2019-05-05,Tchac,Ka-Pow!,9,10
+Tom's Tourney 2019,2019-05-05,Belgium Open,Fire of London,13,6
+Tom's Tourney 2019,2019-05-05,GB U24 Men,Raging Bananas,10,9
+Tom's Tourney 2019,2019-05-05,Cusb Red Bulls,Amsterdam U.C. Open,11,8
+Tom's Tourney 2019,2019-05-05,Freespeed,Wall City,10,9
+Tom's Tourney 2019,2019-05-05,Devon Ultimate,Rebel Ultimate,8,11
+Tom's Tourney 2019,2019-05-05,Belgium U24 Open,Friselis,12,7
+Tom's Tourney 2019,2019-05-05,Ragnarok,Alba,6,12
+Tom's Tourney 2019,2019-05-05,Mooncatchers,Ars Ludendi,7,9
+Tom's Tourney 2019,2019-05-05,SUN,Mosquitos,13,11
+Tom's Tourney 2019,2019-05-05,Ah Ouh Puc,Boys R Us,12,10
+Tom's Tourney 2019,2019-05-05,Hardfisch,Glory Owls,14,8
+Tom's Tourney 2019,2019-05-05,GOLD,Goldfingers,10,9
+Tom's Tourney 2019,2019-05-05,AtomSwift,Uproar,9,8
+Tom's Tourney 2019,2019-05-05,Germany U20 Open,Cota Viet,12,10
+Tom's Tourney 2019,2019-05-05,Blue Arse Flies,Frizstyle,7,12
+Tom's Tourney 2019,2019-05-05,Chevron Action Flash,Craic Dealers 2.0,10,9
+Tom's Tourney 2019,2019-05-05,Cotarica Grandes,New Age,11,10
+Tom's Tourney 2019,2019-05-05,Belgium U24 Open,Ragnarok,11,12
+Tom's Tourney 2019,2019-05-05,Alba,Friselis,13,8
+Tom's Tourney 2019,2019-05-05,CUSB La Fotta51,Iznogood,10,5
+Tom's Tourney 2019,2019-05-05,Heidees,Flump,10,9
+Tom's Tourney 2019,2019-05-05,Freespeed,Devon Ultimate,10,11
+Tom's Tourney 2019,2019-05-05,Rebel Ultimate,Wall City,9,10
+Tom's Tourney 2019,2019-05-05,GB U24 Men,Cusb Red Bulls,9,11
+Tom's Tourney 2019,2019-05-05,Amsterdam U.C. Open,Raging Bananas,15,6
+Tom's Tourney 2019,2019-05-05,Tchac,Belgium Open,12,11
+Tom's Tourney 2019,2019-05-05,Fire of London,Ka-Pow!,5,10
+Tom's Tourney 2019,2019-05-05,Belgium U20,Blue Arse Flies,14,5
+Tom's Tourney 2019,2019-05-05,Cota Viet,Frizstyle,11,9
+Tom's Tourney 2019,2019-05-05,Solebang,SUN,11,9
+Tom's Tourney 2019,2019-05-05,Ars Ludendi,Mosquitos,15,5
+Tom's Tourney 2019,2019-05-05,Frizzly Bears,Hardfisch,13,12
+Tom's Tourney 2019,2019-05-05,Boys R Us,Glory Owls,10,8
+Tom's Tourney 2019,2019-05-05,Panthers Bern,AtomSwift,9,11
+Tom's Tourney 2019,2019-05-05,Goldfingers,Uproar,11,10
+Tom's Tourney 2019,2019-05-05,Chevron Action Flash,GB U24 Men,8,7
+Tom's Tourney 2019,2019-05-05,Tchac,Wall City,8,9
+Tom's Tourney 2019,2019-05-05,CUSB La Fotta51,Freespeed,7,8
+Tom's Tourney 2019,2019-05-05,Alba,Amsterdam U.C. Open,12,7
+Tom's Tourney 2019,2019-05-05,Devon Ultimate,Iznogood,8,9
+Tom's Tourney 2019,2019-05-05,Belgium U24 Open,Ka-Pow!,10,7
+Tom's Tourney 2019,2019-05-05,Cusb Red Bulls,Cotarica Grandes,10,8
+Tom's Tourney 2019,2019-05-05,Belgium Open,Ragnarok,10,7
+Tom's Tourney 2019,2019-05-05,Craic Dealers 2.0,Rebel Ultimate,8,13
+Tom's Tourney 2019,2019-05-05,Friselis,Flump,13,5
+Tom's Tourney 2019,2019-05-05,Heidees,Raging Bananas,7,9
+Tom's Tourney 2019,2019-05-05,Fire of London,New Age,6,12
+Tom's Tourney 2019,2019-05-05,Germany U20 Open,Belgium U20,9,8
+Tom's Tourney 2019,2019-05-05,SUN,Ars Ludendi,6,11
+Tom's Tourney 2019,2019-05-05,Ah Ouh Puc,Frizzly Bears,8,5
+Tom's Tourney 2019,2019-05-05,Hardfisch,Boys R Us,9,6
+Tom's Tourney 2019,2019-05-05,Mooncatchers,Solebang,7,10
+Tom's Tourney 2019,2019-05-05,Blue Arse Flies,Cota Viet,4,12
+Tom's Tourney 2019,2019-05-05,GOLD,Panthers Bern,5,8
+Tom's Tourney 2019,2019-05-05,AtomSwift,Goldfingers,5,12
+Tom's Tourney 2019,2019-05-05,CUSB La Fotta51,Amsterdam U.C. Open,11,6
+Tom's Tourney 2019,2019-05-05,Alba,Freespeed,5,7
+Tom's Tourney 2019,2019-05-05,Chevron Action Flash,Wall City,11,7
+Tom's Tourney 2019,2019-05-05,Tchac,GB U24 Men,12,8
+Tom's Tourney 2019,2019-05-05,Devon Ultimate,Ka-Pow!,8,7
+Tom's Tourney 2019,2019-05-05,Belgium U24 Open,Iznogood,8,7
+Tom's Tourney 2019,2019-05-05,Cusb Red Bulls,Ragnarok,12,6
+Tom's Tourney 2019,2019-05-05,Belgium Open,Cotarica Grandes,9,10
+Tom's Tourney 2019,2019-05-05,Solebang,GOLD,6,7
+Tom's Tourney 2019,2019-05-05,Panthers Bern,Ars Ludendi,8,9
+Tom's Tourney 2019,2019-05-05,Craic Dealers 2.0,Flump,11,9
+Tom's Tourney 2019,2019-05-05,Friselis,Rebel Ultimate,8,9
+Tom's Tourney 2019,2019-05-05,Heidees,New Age,2,13
+Tom's Tourney 2019,2019-05-05,Fire of London,Raging Bananas,6,10
+Tom's Tourney 2019,2019-05-05,Ah Ouh Puc,Cota Viet,5,7
+Tom's Tourney 2019,2019-05-05,Germany U20 Open,Frizzly Bears,4,5
+Tom's Tourney 2019,2019-05-05,SUN,AtomSwift,14,4
+Tom's Tourney 2019,2019-05-05,Goldfingers,Mosquitos,10,4
+Tom's Tourney 2019,2019-05-05,Hardfisch,Belgium U20,7,6
+Tom's Tourney 2019,2019-05-05,Frizstyle,Boys R Us,8,4
+Tom's Tourney 2019,2019-05-05,Uproar,Mooncatchers,8,10
+Tom's Tourney 2019,2019-05-05,Blue Arse Flies,Glory Owls,9,8
+Tom's Tourney 2019,2019-05-05,Cusb Red Bulls,Belgium Open,9,7
+Tom's Tourney 2019,2019-05-05,Cotarica Grandes,Ragnarok,9,6
+Tom's Tourney 2019,2019-05-05,Chevron Action Flash,Tchac,10,9
+Tom's Tourney 2019,2019-05-05,GB U24 Men,Wall City,5,9
+Tom's Tourney 2019,2019-05-05,CUSB La Fotta51,Alba,9,7
+Tom's Tourney 2019,2019-05-05,Freespeed,Amsterdam U.C. Open,9,8
+Tom's Tourney 2019,2019-05-05,Devon Ultimate,Belgium U24 Open,9,10
+Tom's Tourney 2019,2019-05-05,Iznogood,Ka-Pow!,11,7
+Tom's Tourney 2019,2019-05-05,Craic Dealers 2.0,Friselis,7,8
+Tom's Tourney 2019,2019-05-05,Rebel Ultimate,Flump,10,3
+Tom's Tourney 2019,2019-05-05,Heidees,Fire of London,3,6
+Tom's Tourney 2019,2019-05-05,Raging Bananas,New Age,4,13
+Tom's Tourney 2019,2019-05-05,Solebang,Panthers Bern,7,8
+Tom's Tourney 2019,2019-05-05,GOLD,Ars Ludendi,9,8
+Tom's Tourney 2019,2019-05-05,Ah Ouh Puc,Germany U20 Open,6,5
+Tom's Tourney 2019,2019-05-05,Cota Viet,Frizzly Bears,7,6
+Tom's Tourney 2019,2019-05-05,SUN,Goldfingers,6,7
+Tom's Tourney 2019,2019-05-05,AtomSwift,Mosquitos,4,7
+Tom's Tourney 2019,2019-05-05,Hardfisch,Frizstyle,12,7
+Tom's Tourney 2019,2019-05-05,Belgium U20,Boys R Us,11,5
+Tom's Tourney 2019,2019-05-05,Uproar,Glory Owls,11,9
+Tom's Tourney 2019,2019-05-05,Blue Arse Flies,Mooncatchers,3,10
+Tom's Tourney 2019,2019-05-05,Chevron Action Flash,CUSB La Fotta51,10,9
+Tom's Tourney 2019,2019-05-05,Freespeed,Wall City,8,6
+Tom's Tourney 2019,2019-05-05,Cusb Red Bulls,Iznogood,4,6
+Tom's Tourney 2019,2019-05-05,Belgium U24 Open,Cotarica Grandes,11,5
+Tom's Tourney 2019,2019-05-05,Tchac,Amsterdam U.C. Open,8,7
+Tom's Tourney 2019,2019-05-05,Alba,GB U24 Men,8,7
+Tom's Tourney 2019,2019-05-05,Belgium Open,Ka-Pow!,10,6
+Tom's Tourney 2019,2019-05-05,Devon Ultimate,Ragnarok,9,5
+Tom's Tourney 2019,2019-05-05,Rebel Ultimate,Heidees,10,9
+Tom's Tourney 2019,2019-05-05,New Age,Flump,11,7
+Tom's Tourney 2019,2019-05-05,Raging Bananas,Craic Dealers 2.0,4,10
+Tom's Tourney 2019,2019-05-05,Friselis,Fire of London,6,4
+Tom's Tourney 2019,2019-05-05,Uproar,Blue Arse Flies,10,8
+Tom's Tourney 2019,2019-05-05,Glory Owls,Mooncatchers,10,6
+Tom's Tourney 2019,2019-05-05,Panthers Bern,Germany U20 Open,10,6
+Tom's Tourney 2019,2019-05-05,GOLD,Frizzly Bears,7,8
+Tom's Tourney 2019,2019-05-05,Solebang,Ah Ouh Puc,0,7
+Tom's Tourney 2019,2019-05-05,Ars Ludendi,Cota Viet,7,8
+Tom's Tourney 2019,2019-05-05,Goldfingers,Boys R Us,10,8
+Tom's Tourney 2019,2019-05-05,SUN,Belgium U20,6,8
+Tom's Tourney 2019,2019-05-05,Mosquitos,Frizstyle,5,9
+Tom's Tourney 2019,2019-05-05,AtomSwift,Hardfisch,5,6
+Tom's Tourney 2019,2019-05-05,Boys R Us,Mosquitos,6,12
+Tom's Tourney 2019,2019-05-05,SUN,AtomSwift,8,11
+Tom's Tourney 2019,2019-05-05,Mooncatchers,Glory Owls,10,5
+Tom's Tourney 2019,2019-05-05,Uproar,Blue Arse Flies,4,11
+Tom's Tourney 2019,2019-05-05,Freespeed,Belgium U24 Open,10,8
+Tom's Tourney 2019,2019-05-05,Panthers Bern,Ah Ouh Puc,4,9
+Tom's Tourney 2019,2019-05-05,Frizzly Bears,Cota Viet,9,11
+Tom's Tourney 2019,2019-05-05,Germany U20 Open,Solebang,10,4
+Tom's Tourney 2019,2019-05-05,GOLD,Ars Ludendi,11,7
+Tom's Tourney 2019,2019-05-05,Goldfingers,Frizstyle,10,8
+Tom's Tourney 2019,2019-05-05,Belgium U20,Hardfisch,10,9
+Tom's Tourney 2019,2019-05-05,GB U24 Men,Ragnarok,7,8
+Tom's Tourney 2019,2019-05-05,Rebel Ultimate,Craic Dealers 2.0,11,10
+Tom's Tourney 2019,2019-05-05,New Age,Friselis,10,5
+Tom's Tourney 2019,2019-05-05,Heidees,Raging Bananas,3,7
+Tom's Tourney 2019,2019-05-05,Flump,Fire of London,5,10
+Tom's Tourney 2019,2019-05-05,Chevron Action Flash,Iznogood,9,6
+Tom's Tourney 2019,2019-05-05,CUSB La Fotta51,Cusb Red Bulls,8,5
+Tom's Tourney 2019,2019-05-05,Wall City,Cotarica Grandes,8,5
+Tom's Tourney 2019,2019-05-05,Tchac,Belgium Open,9,10
+Tom's Tourney 2019,2019-05-05,Alba,Devon Ultimate,9,7
+Tom's Tourney 2019,2019-05-05,Amsterdam U.C. Open,Ka-Pow!,7,9
+Tom's Tourney 2019,2019-05-05,Mooncatchers,Blue Arse Flies,6,3
+Tom's Tourney 2019,2019-05-05,Glory Owls,Uproar,7,8
+Tom's Tourney 2019,2019-05-05,Panthers Bern,Frizzly Bears,10,7
+Tom's Tourney 2019,2019-05-05,Germany U20 Open,GOLD,10,9
+Tom's Tourney 2019,2019-05-05,Solebang,Ars Ludendi,6,8
+Tom's Tourney 2019,2019-05-05,Goldfingers,Belgium U20,7,9
+Tom's Tourney 2019,2019-05-05,Frizstyle,Hardfisch,10,9
+Tom's Tourney 2019,2019-05-05,Mosquitos,AtomSwift,8,4
+Tom's Tourney 2019,2019-05-05,Boys R Us,SUN,4,6
+Tom's Tourney 2019,2019-05-05,Heidees,Flump,9,7
+Tom's Tourney 2019,2019-05-05,Ah Ouh Puc,Cota Viet,11,10
+Tom's Tourney 2019,2019-05-05,Iznogood,Belgium U24 Open,4,8
+Tom's Tourney 2019,2019-05-05,CUSB La Fotta51,Wall City,10,5
+Tom's Tourney 2019,2019-05-05,Cusb Red Bulls,Cotarica Grandes,1,0
+Tom's Tourney 2019,2019-05-05,Belgium Open,Alba,7,10
+Tom's Tourney 2019,2019-05-05,Tchac,Devon Ultimate,8,10
+Tom's Tourney 2019,2019-05-05,Ka-Pow!,Ragnarok,5,9
+Tom's Tourney 2019,2019-05-05,Amsterdam U.C. Open,GB U24 Men,7,8
+Tom's Tourney 2019,2019-05-05,Rebel Ultimate,New Age,7,12
+Tom's Tourney 2019,2019-05-05,Craic Dealers 2.0,Friselis,10,7
+Tom's Tourney 2019,2019-05-05,Raging Bananas,Fire of London,9,8
+Tom's Tourney 2019,2019-05-05,Chevron Action Flash,Freespeed,15,8
+Tom's Tourney 2019,2019-05-05,Solebang,Ars Ludendi,10,8
+Tom's Tourney 2019,2019-05-05,Panthers Bern,GOLD,8,5
+Tom's Tourney 2019,2019-05-05,Ah Ouh Puc,Frizzly Bears,8,5
+Tom's Tourney 2019,2019-05-05,Germany U20 Open,Cota Viet,12,10
+Tom's Tourney 2019,2019-05-05,SUN,Mosquitos,13,11
+Tom's Tourney 2019,2019-05-05,Goldfingers,AtomSwift,12,5
+Tom's Tourney 2019,2019-05-05,Hardfisch,Boys R Us,8,6
+Tom's Tourney 2019,2019-05-05,Frizstyle,Belgium U20,11,6
+Vienna Spring Break 2019,2019-05-14,Yellow Block open,INNsiders Open,12,9
+Vienna Spring Break 2019,2019-05-14,Cusb Red Bulls,Brighton Open,2,15
+Vienna Spring Break 2019,2019-05-14,FUJ,Ka-Pow!,14,8
+Vienna Spring Break 2019,2019-05-14,FWD>>,Hardfisch,15,11
+Vienna Spring Break 2019,2019-05-14,M.U.C.,Catchup Graz,14,12
+Vienna Spring Break 2019,2019-05-14,Prague Devils,LOL,15,8
+Vienna Spring Break 2019,2019-05-14,Flying Angels Bern,thebigEZ,13,4
+Vienna Spring Break 2019,2019-05-14,7Schwaben,Cosmo Men,15,11
+Vienna Spring Break 2019,2019-05-14,Yellow Block open,Cusb Red Bulls,15,1
+Vienna Spring Break 2019,2019-05-14,INNsiders Open,Brighton Open,8,10
+Vienna Spring Break 2019,2019-05-14,FUJ,FWD>>,13,10
+Vienna Spring Break 2019,2019-05-14,Ka-Pow!,Hardfisch,13,9
+Vienna Spring Break 2019,2019-05-14,M.U.C.,Prague Devils,9,10
+Vienna Spring Break 2019,2019-05-14,Catchup Graz,LOL,15,9
+Vienna Spring Break 2019,2019-05-14,Flying Angels Bern,7Schwaben,8,12
+Vienna Spring Break 2019,2019-05-14,thebigEZ,Cosmo Men,7,11
+Vienna Spring Break 2019,2019-05-14,Yellow Block open,Brighton Open,8,9
+Vienna Spring Break 2019,2019-05-14,CUSB Red Bulls,INNsiders Open,4,15
+Vienna Spring Break 2019,2019-05-14,FUJ,Hardfisch,15,6
+Vienna Spring Break 2019,2019-05-14,FWD>>,Ka-Pow!,15,8
+Vienna Spring Break 2019,2019-05-14,M.U.C.,LOL,15,8
+Vienna Spring Break 2019,2019-05-14,Prague Devils,Catchup Graz,11,10
+Vienna Spring Break 2019,2019-05-14,Flying Angels Bern,Cosmo Men,14,8
+Vienna Spring Break 2019,2019-05-14,7Schwaben,thebigEZ,14,8
+Vienna Spring Break 2019,2019-05-14,Brighton Open,FWD>>,13,12
+Vienna Spring Break 2019,2019-05-14,FUJ,Yellow Block open,15,8
+Vienna Spring Break 2019,2019-05-14,Prague Devils,Flying Angels Bern,10,15
+Vienna Spring Break 2019,2019-05-14,7Schwaben,M.U.C.,10,15
+Vienna Spring Break 2019,2019-05-14,INNsiders Open,Hardfisch,15,9
+Vienna Spring Break 2019,2019-05-14,Ka-Pow!,CUSB Red Bulls,15,5
+Vienna Spring Break 2019,2019-05-14,Catchup Graz,thebigEZ,14,12
+Vienna Spring Break 2019,2019-05-14,Cosmo Men,LOL,15,10
+Vienna Spring Break 2019,2019-05-14,Brighton Open,M.U.C.,6,14
+Vienna Spring Break 2019,2019-05-14,FUJ,Flying Angels Bern,11,15
+Vienna Spring Break 2019,2019-05-14,FWD>>,7Schwaben,12,13
+Vienna Spring Break 2019,2019-05-14,Yellow Block open,Prague Devils,13,10
+Vienna Spring Break 2019,2019-05-14,INNsiders Open,Cosmo Men,15,6
+Vienna Spring Break 2019,2019-05-14,Ka-Pow!,Catchup Graz,14,15
+Vienna Spring Break 2019,2019-05-14,Hardfisch,LOL,15,10
+Vienna Spring Break 2019,2019-05-14,CUSB Red Bulls,thebigEZ,1,15
+Vienna Spring Break 2019,2019-05-14,Brighton Open,FUJ,9,15
+Vienna Spring Break 2019,2019-05-14,7Schwaben,Yellow Block open,15,13
+Vienna Spring Break 2019,2019-05-14,FWD>>,Prague Devils,15,9
+Vienna Spring Break 2019,2019-05-14,INNsiders Open,Catchup Graz,12,15
+Vienna Spring Break 2019,2019-05-14,Cosmo Men,Ka-Pow!,12,15
+Vienna Spring Break 2019,2019-05-14,Hardfisch,thebigEZ,11,15
+Vienna Spring Break 2019,2019-05-14,LOL,CUSB Red Bulls,15,3
+Vienna Spring Break 2019,2019-05-14,M.U.C.,Flying Angels Bern,14,11
